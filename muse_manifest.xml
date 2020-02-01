@@ -1,0 +1,162 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MaynardMann.com" resolutions="1x" timestamp="1580595212294">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="256468620" ref="contact:about:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:about:index"/>
+    <file name="contact.css" crc="287284518" ref="contact"/>
+    <file name="nomq_contact.css" crc="88049619" ref="contact"/>
+    <file name="about.css" crc="16194924" ref="about"/>
+    <file name="nomq_about.css" crc="241946129" ref="about"/>
+    <file name="index.css" crc="3942557117" ref="index"/>
+    <file name="nomq_index.css" crc="4264693069" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:about:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:about:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-layer 2.png" crc="3946903263" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-layer 1.png" crc="3786782262" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-layer 4.png" crc="338975653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-layer 3.png" crc="145971770" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-layer 6.png" crc="4093998295" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-layer 5.png" crc="3838632367" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="works by maynard mann.png" crc="4163555026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corpse weed for print230x371.jpg" crc="92623454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corpse weed for print.jpg" crc="4252834111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="miyow200x197.jpg" crc="397767014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="miyow.jpg" crc="4063757936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bone head for print183x183.jpg" crc="3779877620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bone head for print.jpg" crc="3914292589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="goat of the teen wich-s sabbath.jpg" crc="85732433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="goat-of-the-teen-wich-s-sabbath-smaler.gif" crc="354949894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helpless for print156x281.jpg" crc="75218755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="helpless for print.jpg" crc="3984833917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="squerl fancy for print168x237.jpg" crc="3980794801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="squerl fancy for print.jpg" crc="4031033803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="open minded large299x404.jpg" crc="248326280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="open minded large.jpg" crc="501525584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="overbite for print.jpg" crc="227158517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="overbite for print233x224.jpg" crc="3987027132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mother for print 2.jpg" crc="285975251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lend me a hand for print.jpg" crc="413388996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lend me a hand for print180x352.jpg" crc="141919884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="last trick for print larg.jpg" crc="3766528519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="last trick for print larg217x217.jpg" crc="3982223438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="underbite for print.jpg" crc="109152585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="underbite for print159x209.jpg" crc="4156436739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black matt back.jpg" crc="215883710" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="black matt back800x800.jpg" crc="4152701565" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact"/>
+    <file name="web-cinima.gif" crc="504951538" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3821774063" seo="true" mt="1512438807456" redirect="true"/>
+  <file name="about.html" crc="454931531" seo="true" mt="1512438807456" redirect="true"/>
+  <file name="contact.html" crc="3820689369" seo="true" mt="1512438807456" redirect="true"/>
+</manifest>
